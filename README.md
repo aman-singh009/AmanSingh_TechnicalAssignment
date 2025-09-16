@@ -99,9 +99,9 @@ cd Question2_DataPipeline/
 
 ## 📬 Contact
 
-Author: Aman Singh
-GitHub: aman-singh009
-Email: singhatg43@gmail.com
+- Author: Aman Singh
+- GitHub: aman-singh009
+- Email: singhatg43@gmail.com
 ---
 
 ⭐ Thank you for reviewing my submission! Feedback is always welcome.
